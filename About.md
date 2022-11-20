@@ -1,3 +1,5 @@
 layout: page
 title: "About"
-permalink: /
+permalink: /about
+
+<p>This is a test</p>
