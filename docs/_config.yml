@@ -29,7 +29,8 @@ twitter_username:
 github_username:  Dimitridherr
 
 # Build settings
-theme: minima
+#theme: minima
+remote-theme: jeykll/minima
 plugins:
   - jekyll-feed
 minima:
