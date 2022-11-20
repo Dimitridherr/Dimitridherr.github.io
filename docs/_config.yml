@@ -32,6 +32,8 @@ github_username:  Dimitridherr
 theme: minima
 plugins:
   - jekyll-feed
+minima:
+  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -42,7 +44,7 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 # exclude:
-#   - .sass-cache/
+#   
 #   - .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile
