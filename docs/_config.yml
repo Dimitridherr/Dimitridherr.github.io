@@ -33,6 +33,7 @@ github_username:  Dimitridherr
 remote-theme: jeykll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 minima:
   skin: dark
 
