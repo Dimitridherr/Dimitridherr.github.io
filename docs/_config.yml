@@ -22,10 +22,10 @@ title: Dimitri Herr
 email: dimitridherr@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   All my current and past projects.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://Dimitridherr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username:  Dimitridherr
 
 # Build settings
 theme: minima
