@@ -4,6 +4,8 @@ title: Project Rebirth
 permalink: /projectrebirth
 ---
 
-UNDER CONSTRUCTION. Soon I will add a summary of my a video game our team is working on in Unity.
+This game is still in development. I cannot provide too many details, but when the game is completed I will post more details on its development here.
 
-<img src="/Images/UnderConstruction.jpg" alt="Fix Cat" style="float: left;">
+Plot Summary: A brother and sister in the military must assemble a team of super powered individuals to fight terrorists hellbent on killing everyone with superpowers, all while the team tries to keep their own powers from killing themselves.
+
+Gameplay Summary: The story will be told through a visual novel style, while the gameplay will take place on a turn-based on a hexagonal grid.
