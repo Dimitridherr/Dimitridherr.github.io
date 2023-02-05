@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Importance of Meaningful Time Off"
-date: 2022-01-18 10:31:00 -0000
+date: 2023-01-18 10:31:00 -0000
 categories: 
 ---
 
@@ -11,4 +11,5 @@ So far the time I have spent has been quite productive. I have been continuing t
 
 The time I spent has further cemented my interest in pursuing game development, especially as I see it evolving towards a final product. The video I made, while certainly in need of improvement, has likewise reaffirmed my interest in creating more creative works for others to enjoy. My weakest area is certainly my presenting ability. My voice is, by default, quite monotonous. This means my presentation style can lack emotion or impact. Not helping this is my tendency to become quite anxious during presenting, especially when reading from a script. Nonetheless, creating my first video has helped me determine my starting point and has allowed me to lay out strategies to improve for the future.
 
-<img src="/Images/astralprojection.jpg" alt="Remoting">
+Also, Happy New Year! Let's hope our spirits are as high as the current rate of inflation!
+<img src="/Images/newyear.jpg" alt="New Years 2023">

@@ -11,5 +11,4 @@ When the level starts, it first loads and assigns the appropriate drawing/sortin
 
 I am continuing to bug test our game, a process I find quite fun actually. All the bugs thus far have been easy fixes that push the game that much closer to completion. 
 
-Also, a very belated Happy New Year! Let's hope our spirits are as high as the current rate of inflation!
-<img src="/Images/newyear.jpg" alt="New Years 2023">
+<img src="/Images/astralprojection.jpg" alt="Remoting">
